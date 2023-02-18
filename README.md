@@ -1,8 +1,8 @@
-<h1>🚀 Sercan Turkoglu</h1>
+<h1>🚀 Sercan TÜRKOĞLU</h1>
 <h3>Front end Engineer</h3>
 
 - 🌍 I'm based in London 
-- 🚀 I'm founder of TechLab 
+- 💥 I'm founder of TechLab 
 - 🌱 I’m currently learning Express 
 - - 🎮 Fun fact: I love to play a video games and working out 🥊
 
