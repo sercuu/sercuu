@@ -114,13 +114,18 @@
 
 <h3>📊 Stats</h3>
 <p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sercuu&show_icons=true&theme=gruvbox"
-    alt="sercuu"
-  />
+ 
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&show_icons=true&theme=gruvbox"
 />
 </p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=sercuu&show_icons=true&theme=gruvbox"
+    alt="sercuu"
+  />
+ 
+</p>
+
