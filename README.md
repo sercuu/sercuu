@@ -112,23 +112,22 @@ Express - - 🎮 Fun fact: I love to play a video games and working out 🥊
 
 <h3>📊 Stats</h3>
 
-
 <table>
   <thead>
     <tr>
       <th>
-        <a href="#"
-          > <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&layout=compact&hide_border=false&theme=gruvbox"
+        <a href="#">
+          <img
+            align="center"
+            src="https://github-readme-stats.vercel.app/api?username=sercuu&show_icons=true&theme=gruvbox"
+            alt="sercuu"
         /></a>
       </th>
       <th>
-        <a href="#"
-          > <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=sercuu&show_icons=true&theme=gruvbox"
-          alt="sercuu"
+        <a href="#">
+          <img
+            align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&layout=compact&hide_border=false&theme=gruvbox"
         /></a>
       </th>
     </tr>
