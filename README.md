@@ -117,7 +117,7 @@
  
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&show_icons=true&theme=gruvbox&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&theme=gruvbox&layout=compact&hide_border=true"
 />
 </p>
 <p>
