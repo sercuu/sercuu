@@ -122,5 +122,5 @@
 </p>
 <p><img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&layout=compact&theme=buefy&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercuu&show_icons=true&theme=gruvbox"
 /></p>
