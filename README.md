@@ -2,6 +2,12 @@
 <h3 align="center">Front end Engineer</h3>
 
 
+- 🌍  I'm based in London
+- 🚀  I'm founder of TechLab
+- 🌱 I’m currently learning Express
+- 🎮 Fun fact: I love to play a video games and working out 🥊
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
