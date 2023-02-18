@@ -1,12 +1,8 @@
-<h1>🚀 Sercan Turkoglu</h1>
-<h3>Front end Engineer</h3>
+<h1 align="center">🚀 Sercan Turkoglu</h1>
+<h3 align="center">Front end Engineer</h3>
 
-
-- 🌍  I'm based in London
-- 🚀  I'm founder of TechLab
-- 🌱 I’m currently learning Express
-- 🎮 Fun fact: I love to play a video games and working out 🥊
-
+- 🌍 I'm based in London - 🚀 I'm founder of TechLab - 🌱 I’m currently learning
+Express - 🎮 Fun fact: I love to play a video games and working out 🥊
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -114,10 +110,11 @@
   </a>
 </p>
 
+<h3>📊 Stats</h3>
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sercuu&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox"
     alt="sercuu"
   />
 </p>
