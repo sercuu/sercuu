@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Sercan Turkoglu</h1>
-<h3 align="center">Front end Engineer</h3>
+<h1>🚀 Sercan Turkoglu</h1>
+<h3>Front end Engineer</h3>
 
 
 - 🌍  I'm based in London
