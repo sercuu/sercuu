@@ -116,7 +116,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api?username=sercuu&show_icons=true&theme=gruvbox"
     alt="sercuu"
   />
 </p>
