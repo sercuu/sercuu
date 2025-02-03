@@ -3,7 +3,7 @@
 
 - 🌍 I'm based in London 
 - 💥 I'm founder of TechLab 
-- 🌱 I’m currently learning Express 
+- 🌱 I’m currently learning Express and React Native
 - 🎮 Fun fact: I love to play a video games and working out 🥊
 
 <h3 align="left">Languages and Tools:</h3>
